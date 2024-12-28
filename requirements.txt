@@ -74,7 +74,7 @@ cython==0.29.15 \
 dynaconf==2.2.2 \
     --hash=sha256:3cfc1ad7efae08b9cf91d81043a3230175e74e01157d875ce5ec6709bf4e6b9d \
     --hash=sha256:4bac78b432e090d8ed66f1c23fb32e03ca91a590bf0a51ac36137e0e45ac31ca
-jinja2==3.1.4 \
+jinja2==3.1.5 \
     --hash=sha256:b0eaf100007721b5c16c1fc1eecb87409464edc10469ddc9a22a27a99123be49 \
     --hash=sha256:93187ffbc7808079673ef52771baa950426fd664d3aad1d0fa3e95644360e250
 markupsafe==1.1.1 \
